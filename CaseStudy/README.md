@@ -15,4 +15,10 @@ Some necessary design features are
 Buttons, dial or a touchscreen is used to give the input.
 
 ## Requirements
-####
+#### High Level Requirements
+- Show time
+
+#### Low Level Requirements
+- Monitor heartbeat.
+- Count the number of steps.
+- Give reminders.
