@@ -13,3 +13,6 @@ Some necessary design features are
 - Worn on wrist
 
 Buttons, dial or a touchscreen is used to give the input.
+
+## Requirements
+####
