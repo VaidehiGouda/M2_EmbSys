@@ -17,8 +17,15 @@ Buttons, dial or a touchscreen is used to give the input.
 ## Requirements
 #### High Level Requirements
 - Show time
+- Count the number of steps.
+- Give reminders
 
 #### Low Level Requirements
-- Monitor heartbeat.
-- Count the number of steps.
-- Give reminders.
+- Monitor heartbeat
+- Setup alarm
+
+## Components
+- Sensors
+- Microcontroller
+- LCD display
+- Transceiver IC
