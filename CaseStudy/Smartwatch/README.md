@@ -21,8 +21,8 @@ Buttons, dial or a touchscreen is used to give the input.
 - Give reminders
 
 #### Low Level Requirements
-- Monitor heartbeat
-- Setup alarm
+- Monitor heartbeat.
+- Alarm
 
 ## Components
 - Sensors
