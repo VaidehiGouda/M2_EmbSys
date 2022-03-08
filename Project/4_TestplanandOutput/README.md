@@ -1,0 +1,1 @@
+The input file is given in .wav format. Here the input is song1.wav.

@@ -23,3 +23,7 @@ Some of the requirements noted for this project are:
 - Use as less time as possible to process user input
 - Give better sound quality
 - Noise should be less
+
+### Applications
+- It can be coded in song playing apps.
+- It can be further manufactured to devices that play only music.
