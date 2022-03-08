@@ -1,1 +1,1 @@
-![Arduino UNO](images/arduino_UNO.jpg)
+![](images/arduino_UNO.png)
